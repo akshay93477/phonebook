@@ -32,11 +32,11 @@ create_contacts_table(cursor)
 
 # Insert 5 rows of data
 contacts_data = [
-    ('John Doe', '1234567890', 'john@example.com'),
-    ('Jane Smith', '9876543210', 'jane@example.com'),
-    ('Bob Johnson', '5551234567', 'bob@example.com'),
-    ('Alice Williams', '9998887777', 'alice@example.com'),
-    ('Charlie Brown', '7773331111', 'charlie@example.com')
+    ('Akshay', '1234567890', 'akshay@example.com'),
+    ('aadil', '9876543210', 'aadil@example.com'),
+    ('keerthna', '5551234567', 'keerthna@example.com'),
+    ('sairam', '9998887777', 'sairam@example.com'),
+    ('vishal', '7773331111', 'vishal@example.com')
 ]
 
 for contact in contacts_data:
